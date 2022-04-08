@@ -1,0 +1,15 @@
+p {
+    border: 2px black solid;
+}
+#P1 {
+    border: 400px;
+    font-family: "Arial Black","Georgia","Courier New","Sans-Serif";
+    font-size: xx-large;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: bolder;
+}
+#p2 {
+    width: 400px;
+    font-family: "butcherman";
+}
